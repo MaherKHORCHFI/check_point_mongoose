@@ -1,0 +1,5 @@
+
+
+{
+    "MONGO_URI" : "mongodb+srv://maher:gomycode1234@cluster0.orpef.mongodb.net/persons?retryWrites=true&w=majority"
+}
